@@ -90,7 +90,4 @@ Graphic Design · Visual Identity · Layout Design · Digital Creativity
 
 ---
 
-<p align="center">
-  <i>Focused on building clean, useful, and visually thoughtful digital projects.</i>
-</p>
-"# VasilisMouratidis" 
+
