@@ -5,7 +5,7 @@ Information & Electronic Systems Engineer · Integrated MSc Graduate · Aspiring
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Building+academic+software+projects;Exploring+front-end+development;Combining+technology+with+visual+design;Learning%2C+building%2C+and+improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Exploring+front-end+development;Combining+technology+with+visual+design;Learning%2C+building%2C+and+improving" alt="Typing SVG" />
 </p>
 
 ---
