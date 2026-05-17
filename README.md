@@ -80,9 +80,6 @@ Graphic Design · Visual Identity · Layout Design · Digital Creativity
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://github.com/VasilisMouratidis">
-    <img src="https://img.shields.io/badge/GitHub-VasilisMouratidis-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://www.linkedin.com/in/vasilis-mouratidis-vm051099/">
     <img src="https://img.shields.io/badge/LinkedIn-Vasilis%20Mouratidis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
