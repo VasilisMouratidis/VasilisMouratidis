@@ -1,54 +1,121 @@
 <h1 align="center">Hi 👋, I'm Vasilis Mouratidis</h1>
 
 <h3 align="center">
-Information & Electronic Systems Engineer · Integrated MSc Graduate · Aspiring Front-End Developer
+Information & Electronic Systems Engineer · Junior Software Developer · Full-Stack & Python
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Exploring+front-end+development;Combining+technology+with+visual+design;Learning%2C+building%2C+and+improving" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/vasilis-mouratidis-vm051099/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vasilis%20Mouratidis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a graduate of the Department of Information and Electronic Systems Engineering of the Polytechnic School at the International Hellenic University, holding an Integrated MSc degree.
+Integrated Master's graduate in Information and Electronic Systems Engineering from the International Hellenic University, with a specialization in Programming, Data Analysis and Artificial Intelligence.
 
-My academic background combines software development, information systems, electronics, databases, and data analysis. Through my university projects, I gained hands-on experience in designing, developing, and documenting applications using different technologies.
+My background includes full-stack web development, backend APIs, databases, Java desktop applications and Python-based statistical analysis.
 
-All projects included in my GitHub repositories were created for academic purposes, as part of coursework, assignments, or my diploma thesis.
+I enjoy building practical software projects, improving existing codebases and expanding my knowledge across frontend, backend and general software engineering.
 
-My main goal is to focus on Front-End Development, while gradually expanding my knowledge in Graphic Design in order to combine clean code with strong visual presentation and user-centered interfaces.
+Currently seeking opportunities as a **Junior Software Developer**.
+
+---
+
+## 🚀 Selected Projects
+
+### ♻️ RecycleHub
+Full-stack web application for displaying recycling points on an interactive map and allowing users to report issues related to recycling locations.
+
+**Tech:** React · JavaScript · Vite · Bootstrap · Axios · Google Maps API · Node.js · Express · MongoDB · Mongoose · GeoJSON
+
+🔗 [View Repository](https://github.com/VasilisMouratidis/RecycleHub)
+
+---
+
+### 📊 Diploma Thesis — Statistical Analysis Pipeline
+Python-based statistical analysis workflow developed for my diploma thesis on the acceptance of autonomous ground and aerial vehicles in transportation services.
+
+The analysis includes data preprocessing, descriptive statistics, reliability analysis, Exploratory Factor Analysis (EFA), Structural Equation Modeling (SEM) and hypothesis testing.
+
+**Tech:** Python · pandas · NumPy · SciPy · statsmodels · factor-analyzer · semopy · Excel
+
+🔗 [View Repository](https://github.com/VasilisMouratidis/Diploma-Thesis)
+
+---
+
+### ☕ ThessPoto
+Java desktop application developed with Java Swing and MySQL for managing beverage-related business operations.
+
+Features include user login, product catalogue, stock availability and procurement-related functionality.
+
+**Tech:** Java · Java Swing · MySQL · NetBeans
+
+🔗 [View Repository](https://github.com/VasilisMouratidis/ThessPoto)
+
+---
+
+### 🃏 Bluff Card Game
+Web-based implementation of the Bluff card game with backend game logic, player and deck management and database persistence.
+
+**Tech:** PHP · MySQL · HTML
+
+🔗 [View Repository](https://github.com/VasilisMouratidis/Bluff-Game)
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+JavaScript · Python · Java · C · PHP
+
+### Frontend
+React · HTML5 · CSS3 · Bootstrap · Vite · Google Maps API
+
+### Backend & APIs
+Node.js · Express · REST APIs · Axios
+
+### Databases
+PostgreSQL · MongoDB · MySQL
+
+### Data & Analysis
+pandas · NumPy · SciPy · statsmodels · factor-analyzer · semopy
+
+### Tools
+Git · GitHub · VS Code · NetBeans
+
+### AI-assisted Development
+OpenAI Codex · ChatGPT
+
+---
+
+## 📚 Currently Learning
+
+- Advanced React development
+- React Hooks and state management
+- Redux
+- React Router
+- Next.js
+- Authentication and testing
+- Full-stack React development
+
+Currently following:
+
+**React - The Complete Guide (incl. Next.js, Redux)**  
+Udemy / Academind — Maximilian Schwarzmüller
 
 ---
 
 ## 🎯 Current Focus
 
-- Developing my skills in Front-End Development
-- Improving project structure, documentation, and code readability
-- Learning more about UI design, visual hierarchy, and user experience
-- Combining software engineering knowledge with creative design principles
-- Presenting my academic projects in a clean and professional GitHub portfolio
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,php,mysql,git,github,vscode" />
-</p>
-
----
-
-## 🚀 Academic Projects
-
-| Project | Description | Main Tech |
-|---|---|---|
-| [Diploma-Thesis](https://github.com/VasilisMouratidis/Diploma-Thesis) | Python-based statistical analysis of questionnaire data for a diploma thesis on the acceptance of autonomous ground and aerial vehicles in transport services. | Python |
-| [RecycleHub](https://github.com/VasilisMouratidis/RecycleHub) | Academic web project focused on recycling, sustainability, and user interaction. | JavaScript |
-| [ThessPoto](https://github.com/VasilisMouratidis/ThessPoto) | Academic application project related to nightlife and drink discovery in Thessaloniki. | Java |
-| [SportAgent](https://github.com/VasilisMouratidis/SportAgent) | Academic sports-related software project. | Java |
-| [Bluff-Game](https://github.com/VasilisMouratidis/Bluff-Game) | Academic PHP-based bluffing/card game project. | PHP |
+- Building stronger full-stack development projects
+- Improving backend API design and database integration
+- Writing cleaner, more maintainable code
+- Strengthening testing and software engineering practices
+- Expanding my portfolio with modern software projects
+- Using AI-assisted development tools for code review, debugging, refactoring and documentation
 
 ---
 
@@ -59,32 +126,9 @@ My main goal is to focus on Front-End Development, while gradually expanding my 
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasilisMouratidis&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VasilisMouratidis&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌱 Learning Path
-
-```text
-Front-End Development
-HTML · CSS · JavaScript · Responsive Design · UI/UX Fundamentals
-
-Future Goal
-Graphic Design · Visual Identity · Layout Design · Digital Creativity
-```
-
 ---
 
 ## 📫 Contact
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vasilis-mouratidis-vm051099/">
-    <img src="https://img.shields.io/badge/LinkedIn-Vasilis%20Mouratidis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-
+- LinkedIn: [Vasilis Mouratidis](https://www.linkedin.com/in/vasilis-mouratidis-vm051099/)
+- GitHub: [VasilisMouratidis](https://github.com/VasilisMouratidis)
