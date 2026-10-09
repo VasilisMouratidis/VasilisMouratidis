@@ -86,26 +86,6 @@ pandas · NumPy · SciPy · statsmodels · factor-analyzer · semopy
 ### Tools
 Git · GitHub · VS Code · NetBeans
 
-### AI-assisted Development
-OpenAI Codex · ChatGPT
-
----
-
-## 📚 Currently Learning
-
-- Advanced React development
-- React Hooks and state management
-- Redux
-- React Router
-- Next.js
-- Authentication and testing
-- Full-stack React development
-
-Currently following:
-
-**React - The Complete Guide (incl. Next.js, Redux)**  
-Udemy / Academind — Maximilian Schwarzmüller
-
 ---
 
 ## 🎯 Current Focus
@@ -115,20 +95,4 @@ Udemy / Academind — Maximilian Schwarzmüller
 - Writing cleaner, more maintainable code
 - Strengthening testing and software engineering practices
 - Expanding my portfolio with modern software projects
-- Using AI-assisted development tools for code review, debugging, refactoring and documentation
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VasilisMouratidis&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasilisMouratidis&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📫 Contact
-
-- LinkedIn: [Vasilis Mouratidis](https://www.linkedin.com/in/vasilis-mouratidis-vm051099/)
-- GitHub: [VasilisMouratidis](https://github.com/VasilisMouratidis)
